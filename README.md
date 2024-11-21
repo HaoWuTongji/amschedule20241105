@@ -12,6 +12,7 @@ The machine parameters are based on the specifications of four commonly used SLM
 	Sisma EVEMET 200 (https://www.sisma-laser.fr/evemet-200.)
 
 The data format is as follows, with parameter definitions and units illustrated in our paper.
+
 ==============================================================================
 
 types_machine types_parts
@@ -87,4 +88,5 @@ l=78.3 w=72.7 h=76.4 s=14668.0 // orientation_2
 l=87.7 w=70.5 h=74.4 s=3396.0 // orientation_3
 
 We provide the due-dates for each part of each instances in "Due-Dates.txt" file, listed according to the part's index, for each tested instance. For example, "# 2-50-0.3-0.3" refers to an instance with m=2, n=50, TF=0.3, and RDD=0.3.
+
 ===========================================================================================================================================================================================================================================

@@ -16,7 +16,7 @@ modified by haowu 2024.10
 # ==================================================================
 
 import Visualizer as vs
-from SIM_ALNS import readInstance
+from SIM_ALNS import *
 from NSPM_MILP import *
 import re
 import random
